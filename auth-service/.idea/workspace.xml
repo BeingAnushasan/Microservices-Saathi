@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cce9f7af-06e4-4b38-9535-ebef0ce65ae6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiger/saathi/authserver/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiger/saathi/authserver/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiger/saathi/authserver/model/AuthUserDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiger/saathi/authserver/model/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiger/saathi/authserver/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiger/saathi/authserver/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiger/saathi/authserver/repo/UserDetailRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiger/saathi/authserver/service/UserDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cVz20IxALeCWvjqrvxc48jacI9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AuthServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tiger.saathi.authserver.AuthServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cce9f7af-06e4-4b38-9535-ebef0ce65ae6" name="Default Changelist" comment="" />
+      <created>1590628339424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590628339424</updated>
+      <workItem from="1590628361788" duration="58000" />
+      <workItem from="1590628449528" duration="2355000" />
+      <workItem from="1590635234587" duration="2855000" />
+      <workItem from="1590642408862" duration="875000" />
+      <workItem from="1590643326051" duration="3965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="1028" height="768" key="#Project_Structure" timestamp="1590629131231">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state x="0" y="0" width="1028" height="768" key="#Project_Structure/22.0.1344.768@22.0.1344.768" timestamp="1590629131231" />
+    <state x="75" y="222" width="1232" height="326" key="#SQL_Dialects" timestamp="1590629637320">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state x="75" y="222" width="1232" height="326" key="#SQL_Dialects/22.0.1344.768@22.0.1344.768" timestamp="1590629637320" />
+    <state x="289" y="46" width="804" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590629796754">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state x="289" y="46" width="804" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/22.0.1344.768@22.0.1344.768" timestamp="1590629796754" />
+    <state x="774" y="186" width="506" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590637218356">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state x="774" y="186" width="506" height="396" key="#com.intellij.fileTypes.FileTypeChooser/22.0.1344.768@22.0.1344.768" timestamp="1590637218356" />
+    <state x="838" y="91" width="497" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1590644530772">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state x="838" y="91" width="497" height="585" key="#com.intellij.ide.util.MemberChooser/22.0.1344.768@22.0.1344.768" timestamp="1590644530772" />
+    <state width="1298" height="303" key="GridCell.Tab.0.bottom" timestamp="1590647291807">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state width="1298" height="303" key="GridCell.Tab.0.bottom/22.0.1344.768@22.0.1344.768" timestamp="1590647291807" />
+    <state width="1298" height="303" key="GridCell.Tab.0.center" timestamp="1590647291806">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state width="1298" height="303" key="GridCell.Tab.0.center/22.0.1344.768@22.0.1344.768" timestamp="1590647291806" />
+    <state width="1298" height="303" key="GridCell.Tab.0.left" timestamp="1590647291806">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state width="1298" height="303" key="GridCell.Tab.0.left/22.0.1344.768@22.0.1344.768" timestamp="1590647291806" />
+    <state width="1298" height="303" key="GridCell.Tab.0.right" timestamp="1590647291806">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state width="1298" height="303" key="GridCell.Tab.0.right/22.0.1344.768@22.0.1344.768" timestamp="1590647291806" />
+    <state width="1298" height="303" key="GridCell.Tab.1.bottom" timestamp="1590647291808">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state width="1298" height="303" key="GridCell.Tab.1.bottom/22.0.1344.768@22.0.1344.768" timestamp="1590647291808" />
+    <state width="1298" height="303" key="GridCell.Tab.1.center" timestamp="1590647291807">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state width="1298" height="303" key="GridCell.Tab.1.center/22.0.1344.768@22.0.1344.768" timestamp="1590647291807" />
+    <state width="1298" height="303" key="GridCell.Tab.1.left" timestamp="1590647291807">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state width="1298" height="303" key="GridCell.Tab.1.left/22.0.1344.768@22.0.1344.768" timestamp="1590647291807" />
+    <state width="1298" height="303" key="GridCell.Tab.1.right" timestamp="1590647291807">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state width="1298" height="303" key="GridCell.Tab.1.right/22.0.1344.768@22.0.1344.768" timestamp="1590647291807" />
+    <state x="432" y="42" width="928" height="684" key="Maven.ArtifactSearchDialog" timestamp="1590642897101">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state x="432" y="42" width="928" height="684" key="Maven.ArtifactSearchDialog/22.0.1344.768@22.0.1344.768" timestamp="1590642897101" />
+    <state x="190" y="20" key="SettingsEditor" timestamp="1590643299178">
+      <screen x="22" y="0" width="1344" height="768" />
+    </state>
+    <state x="190" y="20" key="SettingsEditor/22.0.1344.768@22.0.1344.768" timestamp="1590643299178" />
+  </component>
+</project>
