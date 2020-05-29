@@ -1,6 +1,6 @@
 
 server:
-  port: 9191
+  port: 8181
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/authDB?createDatabaseIfNotExist=true
