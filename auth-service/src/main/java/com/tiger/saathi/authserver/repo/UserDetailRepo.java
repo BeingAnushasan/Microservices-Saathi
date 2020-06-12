@@ -1,6 +1,6 @@
 package com.tiger.saathi.authserver.repo;
 
-import com.tiger.saathi.authserver.model.User;
+import com.anushasan.saathi.commons.model.Auth.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

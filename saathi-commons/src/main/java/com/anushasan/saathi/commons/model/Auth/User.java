@@ -1,6 +1,6 @@
-package com.tiger.saathi.authserver.model;
+package com.anushasan.saathi.commons.model.Auth;
 
-
+import com.anushasan.saathi.commons.model.Profile.UserProfile;
 import lombok.Data;
 
 import javax.persistence.*;
@@ -26,7 +26,7 @@ public class User implements Serializable {
     }
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
 
     @Column(name = "username")
@@ -51,8 +51,18 @@ public class User implements Serializable {
                     @JoinColumn(name = "role_id", referencedColumnName = "id")})
     private List<Role> roles;
 
+//    @OneToOne(fetch = FetchType.LAZY)
+//    @JoinTable(name = "profile_user", joinColumns = {@JoinColumn(name = "user_id", referencedColumnName = "id")},
+//            inverseJoinColumns = {
+//                    @JoinColumn(name = "profile_id", referencedColumnName = "id")})
+//    private UserProfile userProfile;
+//
 
-
-
+//old style
+//    @OneToOne(fetch = FetchType.LAZY,
+//            cascade =  CascadeType.ALL,
+//            mappedBy = "user")
+//    private UserProfile userProfile;
+//
 
 }

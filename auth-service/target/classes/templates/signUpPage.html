@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Save Locations</title>
+</head>
+<body>
+
+<form class="form-signin" action="#" th:action="@{/saveuser}" method="post" th:object="${User}">
+    username:<input type="text" name="username"/><br>
+    password:<input type="text" name="password"/><br>
+    email:<input type="text" name="email"/><br>
+    enabled:<input type="text" name="enabled"/><br>
+    accountNonExpired:<input type="text" name="accountNonExpired"/><br>
+    credentialsNonExpired:<input type="text" name="credentialsNonExpired"/><br>
+    accountNonLocked:<input type="text" name="accountNonLocked"/><br>
+
+    <input type="submit" value="Save"/>
+</form>
+<h4 th:text="${msg}"></h4>
+</body>
+</html>

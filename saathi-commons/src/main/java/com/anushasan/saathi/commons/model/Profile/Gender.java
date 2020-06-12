@@ -1,12 +1,12 @@
-package com.anushasan.saathi.commons.model.User;
+package com.anushasan.saathi.commons.model.Profile;
 
 public enum Gender {
     /** Male. */
     M("Male"),
     /** Female. */
-    F("Female"),
+    F("Female");
     /** Gender is not known, or not specified. */
-    UNKNOWN("Unknown");
+//    UNKNOWN("Unknown");
 
     private final String name;
 
